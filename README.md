@@ -15,4 +15,3 @@ Connect with me:
 <p align="left">
 <a href = "https://www.instagram.com/perilous_.pike/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "https://t.me/perilouspike" target="_blank"><img src="https://img.shields.io/badge/-Telegram-229ed9?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> <a href = "https://xdaforums.com/m/shibu-shaji.7804562/" target="_blank"><img src="https://img.shields.io/badge/-XDA Developers-f59714?style=for-the-badge&logo=xdadevelopers&logoColor=white" target="_blank"></a>
 </p>
-<h3 align="left">
